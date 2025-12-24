@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello, my name is Ksenia Volchenko
 
+### Projects I contribute to.
+
+* **[Group Project](https://github.com/Nikitaksk/group_project.git)** – I am the manager of this project
+* **[Prestashop KFD](https://github.com/Bially2/Biznes_elektroniczny_Project.git)** – I am a tester
+* **[AI recodnized letters](https://github.com/TrueDogeKing/AI-Project.git)** – Creating own datasets and training a NN on it
 <!--
 **VolchenkoKs/VolchenkoKs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
