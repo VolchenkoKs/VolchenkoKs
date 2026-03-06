@@ -6,7 +6,7 @@
 * **[Prestashop KFD](https://github.com/Bially2/Biznes_elektroniczny_Project.git)** – I am a tester
 * **[AI recodnized letters](https://github.com/TrueDogeKing/AI-Project.git)** – Creating own datasets and training a NN on it
 
-* [My profile LinkedIn](https://www.linkedin.com/in/twoja-nazwa-uzytkownika/)
+### [My profile LinkedIn](https://www.linkedin.com/in/twoja-nazwa-uzytkownika/)
 <!--
 **VolchenkoKs/VolchenkoKs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
